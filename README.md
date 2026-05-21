@@ -6,12 +6,13 @@
 
 ## 🛡️ Certificación de Propiedad Intelectual
 
-<a href="https://hormigasais.com/verify" target="_blank">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAB4CAYAAA..."
-       alt="Certificado LBH CLHQ-LGKBWYCX"
-       title="Verificar en hormigasais.com"
-       style="height:60px;border-radius:6px;">
-</a>
+<p align="center">
+  <a href="https://hormigasais.com/verify" target="_blank">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAB4CAYAAA..." alt="Certificado LBH CLHQ-LGKBWYCX" width="300">
+  </a>
+  <br>
+  <code>Firma: CLHQ-LGKBWYCX | Plan: Enterprise | Válido: Permanente</code>
+</p>
 
 ---
 
@@ -34,12 +35,15 @@ Registro histórico del acoplamiento SPA encargado de interceptar el enrutador d
 
 La integridad de las mutaciones aplicadas a este repositorio se encuentra notarizada mediante el hash maestro firmado por la autoridad reguladora:
 
-> **Archivo Auténtico — Sello LBH Verificado** > **FIRMA:** `CLHQ-LGKBWYCX`  
-> **PROPIETARIO:** HormigasAIS  
-> **ACTIVO:** documento  
-> **EMITIDO:** 21/5/2026, 4:25:30 a.m.  
-> **HASH MAESTRO:** `36bb39bfc933d3ea2941cadc3db46693ce89fc22b885f654c12010e4ca2a31e8`  
-> ✅ **HMAC Válido**
+<p align="left">
+  <b>Archivo Auténtico — Sello LBH Verificado</b><br>
+  • <b>FIRMA:</b> <code>CLHQ-LGKBWYCX</code><br>
+  • <b>PROPIETARIO:</b> HormigasAIS<br>
+  • <b>ACTIVO:</b> documento<br>
+  • <b>EMITIDO:</b> 21/5/2026, 4:25:30 a.m.<br>
+  • <b>HASH MAESTRO:</b> <code>36bb39bfc933d3ea2941cadc3db46693ce89fc22b885f654c12010e4ca2a31e8</code><br>
+  ✅ <b>HMAC Válido</b>
+</p>
 
 | Activo de Red | Firma SHA-256 de Origen |
 | :--- | :--- |
