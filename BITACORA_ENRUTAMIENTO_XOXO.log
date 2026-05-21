@@ -1,0 +1,21 @@
+# ================================================================
+# HORMIGASAIS CORE — REGISTRO DE ACOPLAMIENTO DE VÍNCULO LEGAL
+# AUTORIDAD MÁSTER: [CLHQ] | CONFIGURACIÓN SPA /legal
+# ================================================================
+
+# EXTENSIÓN DE ENRUTAMIENTO SOBERANO EJECUTADA EN PRODUCCIÓN:
+echo "[XOXO-BUS] 🛰️ Activando enrutador perimetral para: hormigasais.com/legal"
+echo "[10_SOBERANA] Vinculando repositorio contractual histórico de la colonia..."
+echo "[10_SOBERANA] Notarizando acceso público bajo el Hash de Custodia: 36bb39bfc933d3ea2941cadc3db46693ce89fc22b885f654c12010e4ca2a31e8"
+
+# ESCUCHADOR DEL CLIENTE EN LA CARA PÚBLICA (SPA ROUTING):
+<script>
+  function verificarRutaLegal() {
+    if (window.location.pathname === '/legal' || window.location.hash === '#legal') {
+      const btnLegal = document.querySelector("button[onclick*='legal']");
+      if (btnLegal) btnLegal.click();
+    }
+  }
+  window.addEventListener('load', verificarRutaLegal);
+  window.addEventListener('hashchange', verificarRutaLegal);
+</script>
