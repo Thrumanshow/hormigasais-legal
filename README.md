@@ -20,7 +20,7 @@
 
 Este espacio de trabajo almacena las estructuras de enrutamiento perimetral, la bitácora criptográfica del bus de datos y las salvaguardas legales de la colonia:
 
-### 1. [Comprimido_L_MANIFESTO_LEGAL_SOBERANO.pdf](./Comprimido_L_MANIFESTO_LEGAL_SOBERANO.pdf)
+### 1. [Comprimido_L_MANIFESTO_LEGAL_SOBERANO (1).pdf](./Comprimido_L_MANIFESTO_LEGAL_SOBERANO%20(1).pdf)
 Documento binario compilado de forma nativa por el nodo que condensa el marco bilingüe de gobernanza de datos perimetrales bajo alineación estricta con el GDPR.
 
 ### 2. [LBH-SYS-004-CONTRATO.md](./LBH-SYS-004-CONTRATO.md)
@@ -45,8 +45,9 @@ La integridad de las mutaciones aplicadas a este repositorio se encuentra notari
   ✅ <b>HMAC Válido</b>
 </p>
 
-| Activo de Red | Firma SHA-256 de Origen |
+| Activo de Red | Sello de Origen / Registro de Mutación |
 | :--- | :--- |
+| **CUSTODIA_MUTACIÓN_MAESTRA.sha256** | [Verificar Hash Maestro Nv.0](./CUSTODIA_MUTACI%C3%93N_MAESTRA.sha256) |
 | **LBH-SYS-004-CONTRATO.md** | `2a57d46f171e9459984589a3c664ccbcc009abcc17ba3fa62f54e5711307545b` |
 | **HISTORICO_ERRORES_INGESTA.log** | `cf3e7d09f7b914414f484292bf00f447441f5a1793eef2e3dcdc997cc54ed9fd` |
 
