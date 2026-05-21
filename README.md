@@ -6,8 +6,14 @@
 
 ## 🛡️ Certificación de Propiedad Intelectual
 
-[![Certificado LBH](./badge-lbh-CLHQ-20260521.png)](https://hormigasais.com/verify)
-
+<p align="left">
+  <a href="https://hormigasais.com/verify" target="_blank">
+    <img src="https://raw.githubusercontent.com/Thrumanshow/hormigasais-legal/refs/heads/main/badge-lbh-CLHQ-20260521.png" 
+         alt="Certificado LBH CLHQ-LGKBWYCX" 
+         title="Verificar en hormigasais.com" 
+         style="max-width:100%; height:60px; border-radius:6px;">
+  </a>
+</p>
 ---
 
 ## 📄 Componentes Core del Repositorio
