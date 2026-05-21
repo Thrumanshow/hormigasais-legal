@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://hormigasais.com/verify" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAB4CAYAAA..." alt="Certificado LBH CLHQ-LGKBWYCX" width="300">
+    <img src="https://raw.githubusercontent.com/Thrumanshow/hormigasais-legal/refs/heads/main/badge-lbh-CLHQ-LGKBWYCX.png" alt="Validar Certificación LBH" width="300">
   </a>
   <br>
-  <code>Firma: CLHQ-LGKBWYCX | Plan: Enterprise | Válido: Permanente</code>
+  <code>Firma: CLHQ-LGKBWYCX | Plan: Enterprise | Status: Permanente</code>
 </p>
 
 ---
