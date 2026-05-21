@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://hormigasais.com/verify" target="_blank">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAB4CAYAAA..." 
+    <img src="https://raw.githubusercontent.com/Thrumanshow/hormigasais-legal/refs/heads/main/badge-lbh-CLHQ-20260521.png" 
          alt="Certificado LBH CLHQ-20260521" 
          title="Verificar en hormigasais.com" 
          style="max-width:100%; height:60px; border-radius:6px;">
@@ -53,4 +53,3 @@ La integridad de las mutaciones aplicadas a este repositorio se encuentra notari
 <p align="right">
 <sub>Despliegue procesado bajo el estándar .human — Autoridad Absoluta CLHQ</sub>
 </p>
-
