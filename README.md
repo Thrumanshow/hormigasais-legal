@@ -6,18 +6,7 @@
 
 ## 🛡️ Certificación de Propiedad Intelectual
 
-<p align="left">
-  <a href="https://hormigasais.com/verify" target="_blank">
-    <img src="https://raw.githubusercontent.com/Thrumanshow/hormigasais-legal/refs/heads/main/badge-lbh-CLHQ-20260521.png" 
-         alt="Certificado LBH CLHQ-20260521" 
-         title="Verificar en hormigasais.com" 
-         style="max-width:100%; height:60px; border-radius:6px;">
-  </a>
-</p>
-* **Identificador de Firma:** `CLHQ-20260521`
-* **Nivel de Infraestructura:** Enterprise 🏢
-* **Estado de Consenso:** Activo / Permanente (Inmutable)
-* **Protocolo Base:** Lenguaje-Binario-HormigasAIS (LBH) v2.0
+[![Certificado LBH](./badge-lbh-CLHQ-20260521.png)](https://hormigasais.com/verify)
 
 ---
 
