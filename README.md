@@ -12,6 +12,7 @@
        title="Verificar en hormigasais.com"
        style="height:60px;border-radius:6px;">
 </a>
+
 ---
 
 ## 📄 Componentes Core del Repositorio
