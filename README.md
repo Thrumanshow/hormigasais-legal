@@ -7,8 +7,8 @@
 ## 🛡️ Certificación de Propiedad Intelectual
 
 <p align="center">
-  <a href="https://hormigasais.com/verify" target="_blank">
-    <img src="https://raw.githubusercontent.com/Thrumanshow/hormigasais-legal/refs/heads/main/badge-lbh-CLHQ-LGKBWYCX.png" alt="Validar Certificación LBH" width="300">
+  <a href="https://hormigasais.com/verify">
+    <img src="./badge-lbh-CLHQ-LGKBWYCX.png" alt="Validar Certificación LBH" width="300">
   </a>
   <br>
   <code>Firma: CLHQ-LGKBWYCX | Plan: Enterprise | Status: Permanente</code>
